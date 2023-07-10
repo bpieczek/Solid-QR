@@ -1,4 +1,4 @@
-# Solid-qr is a site that will allow you to turn any link into a QR code.. You can check it [here](https://solid-qr-code-generator.onrender.com)
+# Solid-qr is a site that will allow you to turn any link into a QR code. You can check it [here](https://solid-qr-code-generator.onrender.com)
 
 ## Technologies used:
 
